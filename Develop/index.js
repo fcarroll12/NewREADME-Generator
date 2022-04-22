@@ -33,7 +33,28 @@ const init = () => {
         type: 'list',
         name: 'license',
         message: 'What license does your project use?',
-        choices: ['MIT', 'GNU', 'Apache','Mozilla', 'BSD']
+        choices: [
+            {
+                name: 'MIT',
+                // value: '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)',
+            }, 
+            {
+                name: 'GPLv3',
+                // value: '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)',
+            },
+            {
+                name: 'ISC',
+            //     value: '[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)',
+            },
+            {
+                name: 'Apache 2.0',
+                // value: '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)',
+            }, 
+            {
+                name: 'BSD-3',
+                // value: '[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)',
+            },
+        ],
       },
       {
         type: 'input',
