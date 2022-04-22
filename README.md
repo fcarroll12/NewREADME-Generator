@@ -27,7 +27,7 @@ THEN I am taken to the corresponding section of the README
 ## Description
 I built this Professional README Generator so that a developer could quickly, and easily, generate a professional README File. It uses node.js and allows the user to input all of the typical sections a Professional README provides. At the top of the readme, it generates a badge that correspondes to which license a user chose. It also has a section at the bottom under 'Questions' for a user to input their personal GitHub username and email address. I learned a lot about inquirer as well as template literals solving this assignment. 
 
-Here is a link to a video displaying the typical user flow of the application: https://drive.google.com/file/d/1sIQGd-W0g0vrBz6T1l1uRoys7ehIw5Vo/view
+Here is a link to a video displaying the typical user flow of the application: https://drive.google.com/file/d/1sIQGd-W0g0vrBz6T1l1uRoys7ehIw5Vo/view?usp=sharing
 
 
 ## Usage
