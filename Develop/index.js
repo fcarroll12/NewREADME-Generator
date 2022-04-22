@@ -78,12 +78,12 @@ const init = () => {
       },
     ])
     .then((response) => {
-      const readmeContent = generateMarkdown(response);
-  
-      fs.writeFile('README.md', readmeContent, (err) =>
+      const readmeContent = generateMarkdown(response);  
+
+      fs.writeFile('NewREADME.md', readmeContent, (err) =>
         err ? console.log(err) : console.log('You have succesfully created a README!')
       );
     });
-}
+};
 
 init();

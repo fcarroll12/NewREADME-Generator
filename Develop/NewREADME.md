@@ -1,10 +1,10 @@
-# fiona's awesome
+# Professional README Generator
 
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
     ## Description
-    this is going to work
+    This project is a command line application that quickly creates a professional README generator for developers  
     ## Table of Contents: 
     - [Description](#description)
     - [Installation](#installation)
@@ -16,23 +16,23 @@
     - [Questions](#questions)
 
     ## Installation 
-    stuff
+    inquirer package, fs
 
     ## Usage
-    idk?
+    use node.js in terminal
 
     ## License
     This application is covered under:
     MIT
 
     ## Contributing 
-    just mee
+    N/A
 
     ## Tests 
-    in terminal
+    In the terminal
 
     ##  Questions
     If you have any additional questions feel free to contact me at:
-    [GitHub](https://github.com/fcarroll12) or by email at email
+    [GitHub](https://github.com/fcarroll12) or by email at fiona.carroll@me.com
     
   
