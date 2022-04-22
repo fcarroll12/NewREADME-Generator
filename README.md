@@ -35,7 +35,7 @@ Here is a link to a video displaying the typical user flow of the application: h
 Open your integrated terminal and type the command 'node index.js.' This will begin the command-line application and accept your input. Provide answers to each question and your README will be successfully generated.  
 
     ```md
-    ![alt text](assets/`images/screenshot.png)
+    ![alt text](assets/images/screenshot.png)
     ```
 
 ## Credits
